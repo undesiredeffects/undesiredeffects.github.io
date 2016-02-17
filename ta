@@ -1,0 +1,68 @@
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500  1) <!DOCTYPE html>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500  2) <html lang="en">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500  3) <head>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500  4) <meta charset="utf-8">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500  5) <meta name="viewport" content="width=device-width, initial-scale=1">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500  6) <!-- Latest compiled and minified CSS -->
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500  7) <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css" integrity="sha384-1q8mTJOASx8j1Au+a5WDVnPi2lkFfwwEAa8hDDdjZlpLegxhjVME1fgjWPGmkzs7" crossorigin="anonymous">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500  8) 
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500  9) <!-- Optional theme -->
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 10) <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap-theme.min.css" integrity="sha384-fLW2N01lMqjakBkx3l/M9EahuwpSfeNvV63J5ezn3uZzapT0u7EYsXMjQV+0En5r" crossorigin="anonymous">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 11) 
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 12) <!-- Latest compiled and minified JavaScript -->
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 13) <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/js/bootstrap.min.js" integrity="sha384-0mSbJDEHialfmuBBQP6A4Qrprq5OVfW37PRR3j5ELqxss1yVqOtnepnHVP9aJ7xS" crossorigin="anonymous"></script>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 14) </head>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 15) 
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 16) <nav class="navbar navbar-inverse">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 17)   <div class="container-fluid">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 18)     <div class="navbar-header">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 19)     </div>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 20)     <ul class="nav navbar-nav">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 21)       <li><a href="index.html">Home</a></li>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 22)       <li><a href="page2.html">Page 2</a></li>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 23)       <li><a href="contactForm.html">Contact Form</a></li>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 24)     </ul>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 25)   </div>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 26) </nav>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 27) 
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 28)     <div class="jumbotron">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 29)       <div class="container">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 30)         <h1>Welcome!</h1>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 31)         <p>This is my responsive site built with Bootstrap 3!</p>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 32)        
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 33)       </div>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 34)     </div>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 35) 
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 36)       <div class="subheadings">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 37)         <div class="col-lg-6">
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 38)           <h4>Left Heading</h4>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 39)           <p>Left paragraph!!</p>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 40) 
+0403affa (Christopher Jones 2016-01-27 11:32:03 -0500 41)           <h4>Left Heading 2</h4>
+0403affa (Christopher Jones 2016-01-27 11:32:03 -0500 42)           <p>Left center, or 2nd in line after collapse</p>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 43) 
+0403affa (Christopher Jones 2016-01-27 11:32:03 -0500 44)           <h4>Left heading 3</h4>
+0403affa (Christopher Jones 2016-01-27 11:32:03 -0500 45)           <p>left bottom or 3rd in lin e after collapse</p>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 46)         </div>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 47) 
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 48)         <div class="col-lg-6">
+0403affa (Christopher Jones 2016-01-27 11:32:03 -0500 49)           <h4>Right Heading</h4>
+0403affa (Christopher Jones 2016-01-27 11:32:03 -0500 50)           <p>Right top heading</p>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 51) 
+0403affa (Christopher Jones 2016-01-27 11:32:03 -0500 52)           <h4>Right Heading 2</h4>
+0403affa (Christopher Jones 2016-01-27 11:32:03 -0500 53)           <p>Middle right heading, or the 5th in line.</p>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 54) 
+0403affa (Christopher Jones 2016-01-27 11:32:03 -0500 55)           <h4>Right Heading 3</h4>
+0403affa (Christopher Jones 2016-01-27 11:32:03 -0500 56)           <p>Cold side of the pillow. Last in line.</p>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 57)         </div>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 58)       </div>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 59) 
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 60) 
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 61)     </div>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 62) 
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 63) <footer>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 64)   <p>&copy; 2016 Jones Designs</p>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 65) </footer>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 66) 
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 67)   </body>
+0b4103a0 (Christopher Jones 2016-01-27 11:17:24 -0500 68) </html>
